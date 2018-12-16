@@ -1,0 +1,58 @@
+
+    .popBG {
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.64);
+        position:fixed;
+        top:0;
+        left:0;
+        display:none;
+  z-index: 999!important;
+    }
+  
+.city, .city div {width:100%;height:100%;}
+.mapakardia {background:url(https://images2.imgbox.com/cb/80/bEjKJiik_o.png) center center / 100%;}
+.mapadimior {background:url(https://images2.imgbox.com/75/84/MoZKQwZT_o.png) center center / 100%;}
+.mapaora {background:url(https://images2.imgbox.com/38/57/MTYfHvZb_o.png) center center / 100%;}
+.mapamargurou {background:url(https://images2.imgbox.com/7c/bc/4JRqRYes_o.png) center center / 100%;}
+.mapakatastro {background:url(https://images2.imgbox.com/8b/eb/VXltzRlJ_o.png) center center / 100%;}
+
+.mapakardia a, .mapadimior a, .mapaora a, .mapamargurou a, .mapakatastro a  {
+    margin-left: 0px;
+    height: 580px;
+    width: 580px;
+    background: transparent !important;
+}
+  
+.mapa {
+    width: 600px;
+    height: 100%;
+    display: inline-block;
+    background: url(https://images2.imgbox.com/2c/c8/rMHs8sns_o.png) center center / 100%;
+    position: relative;
+}
+
+.dora {
+    display: inline-block;
+    width: 120px;
+    height: 100%;
+    vertical-align: top;
+}
+
+.cidademapa {
+    width: 120px;
+    height: 120px;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    background: #ddd;
+    font-weight: bold;
+    line-height: 120px;
+    cursor: pointer; 
+}
+
+.mapa1 {background: #666;}
+.mapa2 {
+    background: #cbb051;
+}
+.mapa3 {background:#486288;} .mapa4 {background: #AB73A8} .mapa5 {background:#BD5F5B;}
