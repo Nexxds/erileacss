@@ -1,0 +1,85 @@
+fieldset.submit-buttons input {
+padding-bottom: 9px;
+padding-top: 9px;
+vertical-align: middle;
+}
+
+#textarea_content {
+width: 1110px!important;
+margin-left: 0px!important;
+margin-top: -10px!important;
+}
+
+div.sceditor-toolbar {
+background: #198fc3!important;
+background-clip: padding-box;
+line-height: 0;
+margin-top: -1px!important;;
+margin-left: -1px!important;
+border-radius: 0px!important;
+border: 0px!important;
+overflow: hidden;
+padding: 3px 5px 2px;
+user-select: none;
+text-align: center;
+}
+
+form#quick_reply #textarea_content {
+width: 1097px!important;
+margin-top: -20px!important; 
+margin-left: -1px!important;
+border: 1px solid #E0E0E0;
+border-top: 0px!important;
+padding:  0px;
+overflow: hidden;
+}
+
+.sceditor-container iframe, form#quick_reply #textarea_content .sceditor-container textarea {
+border: 0px!important;
+font-family: Verdana,Arial,Helvetica,sans-serif;
+background: url(https://i.imgur.com/KMVSJei.png);
+font-size: 13px;
+height: 260px!important;
+margin: 0px;
+margin-left: 0px;
+padding:10px 15px!important;
+width: 1064px!important;
+outline: 0;
+padding: 0;
+resize: none;
+border-radius: 0px;
+border: 0px;
+border-right: 1px solid #E0E0E0!important;
+}
+
+div.sceditor-group {
+background: #333!important;
+-moz-background-clip: padding;
+-moz-border-radius: 3px;
+-webkit-background-clip: padding-box;
+-webkit-border-radius: 3px;
+background: #ffffff !important;
+background-clip: padding-box;
+border-bottom: 0px solid #aaa;
+border-radius: 0px;
+display: inline-block;
+margin: 3px 10px 3px 0!important;
+padding: 1px 10px!important;
+text-align: center!important;
+}
+
+#smiley-box, .smile-status-box {
+background-color: #;
+float: right;
+margin-top: 25px;
+width: 18%;
+display: none!important;
+}
+
+#preview {
+font-size: 13px; 
+line-height: 18px;
+padding: 30px 60px;
+text-align: left;
+width: px;
+  }
