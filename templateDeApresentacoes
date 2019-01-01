@@ -1,0 +1,39 @@
+.apresentacoesTemp div i {
+    display: flex;
+    color: #b1b1b1;
+    padding: 10px 11px 10px;
+    background: #f0f0f0;
+    border: 1px solid #E0E0E0;
+    font-size: 13px;
+    width: 15px;
+    text-align: center;
+    float: left;
+    height: 17px;
+    align-items: center;
+    position: absolute;
+    margin: -16px 0px 0px -49px;
+}
+
+.apresentacoesTemp div {
+    border: 1px solid #E0E0E0;
+    margin: -18px 0px 0px 16px;
+    padding: 10px 8px 12px 17px;
+    background: white;
+    font-size: 12px;
+    height: 15px;
+    width: 572px;
+}
+
+.apresentacoesTemp div:nth-child(9), .apresentacoesTemp div:nth-child(11) {
+    height: 150px;
+    overflow: auto;
+
+}
+
+.apresentacoesTemp div:nth-child(9) i, .apresentacoesTemp div:nth-child(11) i {
+    height: 152px;
+}
+
+.apresentacoesTemp {
+    margin-bottom: -14px;
+}
