@@ -1,0 +1,130 @@
+/*CORPO DA BASE DOS TEMPLATES DE AVALIAÇÃO*/
+.avaliacao {
+    padding: 10px 20px 0px 20px;
+    width: 600px;
+    margin: auto;
+    background: #fff;
+    border: 10px solid #ffffff;
+    overflow: auto;
+    box-shadow: 0px 0px 2px #bdbdbd;
+    outline: 1px solid #e7e7e7;
+}
+
+div2 {
+    margin: -28px 15px 0px -20px;
+    padding: 10px 20px;
+    display: block;
+    font-size: 25px;
+    position: absolute;
+    color: #fff;
+    width: 600px;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+div3 {
+    background: #fff;
+    display: block;
+    height: 121px;
+    line-height: 20px;
+    color: #8a8a8a;
+}
+
+div3 span {
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+/*TEMPLATE PONTUADO*/
+#pontuado div2 {
+    background: #e188e6;
+}
+
+#pontuado div3 span {
+    color: #e188e6;
+}
+
+#pontuado div3 strong {
+    color: #e188e6;
+}
+
+#pontuado div3 a {
+    color: #e188e6 !important;
+}
+/*TEMPLATE PONTUADO*/
+
+/*TEMPLATE APROVADO*/
+#aprovado div2 {
+    background: #82e680;
+}
+
+#aprovado div3 span {
+    color: #82e680;
+}
+
+#aprovado div3 strong {
+    color: #82e680;
+}
+
+#aprovado div3 a {
+    color: #82e680 !important;
+}
+/*TEMPLATE APROVADO*/
+
+/*TEMPLATE REPROVADO*/
+#reprovado div2 {
+    background: #ea6464;
+}
+
+#reprovado div3 span {
+    color: #ea6464;
+}
+
+#reprovado div3 strong {
+    color: #ea6464;
+}
+
+#reprovado div3 a {
+    color: #ea6464 !important;
+}
+/*TEMPLATE REPROVADO*/
+
+/*TEMPLATE ATUALIZADO*/
+#atualizado div2 {
+    background: #73b2ce;
+}
+
+#atualizado div3 span {
+    color: #73b2ce;
+}
+
+#atualizado div3 strong {
+    color: #73b2ce;
+}
+
+#atualizado div3 a {
+    color: #73b2ce !important;
+}
+/*TEMPLATE ATUALIZADO*/
+
+/*TEMPLATE INFORMACAO*/
+#informacao div2 {
+    background: #eab667;
+}
+
+#informacao div3 span {
+    color: #eab667;
+}
+
+#informacao div3 strong {
+    color: #eab667;
+}
+
+#informacao div3 a {
+    color: #eab667 !important;
+}
+/*TEMPLATE INFORMACAO*/
