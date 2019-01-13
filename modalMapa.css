@@ -28,7 +28,7 @@
     width: 600px;
     height: 100%;
     display: inline-block;
-    background: url(https://images2.imgbox.com/3d/fa/cpTn3tsO_o.png) center center / 100%;
+    background: url(https://images2.imgbox.com/3f/49/7nYLPPPR_o.png) center center / 100%;
     position: relative;
 }
 
@@ -41,14 +41,15 @@
 
 .cidademapa {
     width: 120px;
-    height: 120px;
-    font-size: 17px;
+    height: 119px;
+    font-size: 12px;
     color: white;
     text-align: center;
-    background: #ddd;
+    background: #65a7de;
     font-weight: bold;
     line-height: 120px;
-    cursor: pointer; 
+    cursor: pointer;
+    border-top: 1px solid #5a97ca;
 }
 
 .mapa1 {background: #666;}
