@@ -1,32 +1,35 @@
 /*CORPO DA BASE DOS TEMPLATES DE AVALIAÇÃO*/
 .avaliacao {
-    padding: 10px 20px 0px 20px;
+    padding: 10px 20px 10px;
     width: 600px;
     margin: auto;
     background: #fff;
-    border: 10px solid #ffffff;
+    border: 10px solid #fff;
     overflow: auto;
-    box-shadow: 0px 0px 2px #bdbdbd;
+    box-shadow: 0 0 2px #bdbdbd;
     outline: 1px solid #e7e7e7;
 }
 
 div2 {
-    margin: -28px 15px 0px -20px;
-    padding: 10px 20px;
+    margin: -28px 15px 0 -20px;
+    padding: 10px 20px 8px;
     display: block;
     font-size: 25px;
     position: absolute;
     color: #fff;
     width: 600px;
-    text-align: right;
     text-transform: uppercase;
     font-weight: 900;
+    line-height: 25px;
+}
+
+div2 i {
+    float: right;
 }
 
 div3 {
     background: #fff;
     display: block;
-    height: 121px;
     line-height: 20px;
     color: #8a8a8a;
 }
@@ -41,90 +44,90 @@ div3 span {
 
 /*TEMPLATE PONTUADO*/
 #pontuado div2 {
-    background: #e188e6;
+    background: #c468ca;
 }
 
 #pontuado div3 span {
-    color: #e188e6;
+    color: #c468ca;
 }
 
 #pontuado div3 strong {
-    color: #e188e6;
+    color: #c468ca;
 }
 
 #pontuado div3 a {
-    color: #e188e6 !important;
+    color: #c468ca !important;
 }
 /*TEMPLATE PONTUADO*/
 
 /*TEMPLATE APROVADO*/
 #aprovado div2 {
-    background: #82e680;
+    background: #53b951;
 }
 
 #aprovado div3 span {
-    color: #82e680;
+    color: #53b951;
 }
 
 #aprovado div3 strong {
-    color: #82e680;
+    color: #53b951;
 }
 
 #aprovado div3 a {
-    color: #82e680 !important;
+    color: #53b951 !important;
 }
 /*TEMPLATE APROVADO*/
 
 /*TEMPLATE REPROVADO*/
 #reprovado div2 {
-    background: #ea6464;
+    background: #cc4f4f;
 }
 
 #reprovado div3 span {
-    color: #ea6464;
+    color: #cc4f4f;
 }
 
 #reprovado div3 strong {
-    color: #ea6464;
+    color: #cc4f4f;
 }
 
 #reprovado div3 a {
-    color: #ea6464 !important;
+    color: #cc4f4f !important;
 }
 /*TEMPLATE REPROVADO*/
 
 /*TEMPLATE ATUALIZADO*/
 #atualizado div2 {
-    background: #73b2ce;
+    background: #5c9bb7;
 }
 
 #atualizado div3 span {
-    color: #73b2ce;
+    color: #5c9bb7;
 }
 
 #atualizado div3 strong {
-    color: #73b2ce;
+    color: #5c9bb7;
 }
 
 #atualizado div3 a {
-    color: #73b2ce !important;
+    color: #5c9bb7 !important;
 }
 /*TEMPLATE ATUALIZADO*/
 
 /*TEMPLATE INFORMACAO*/
 #informacao div2 {
-    background: #eab667;
+    background: #d6a356;
 }
 
 #informacao div3 span {
-    color: #eab667;
+    color: #d6a356;
 }
 
 #informacao div3 strong {
-    color: #eab667;
+    color: #d6a356;
 }
 
 #informacao div3 a {
-    color: #eab667 !important;
+    color: #d6a356 !important;
 }
 /*TEMPLATE INFORMACAO*/
