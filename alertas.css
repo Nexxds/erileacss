@@ -10,6 +10,10 @@
     outline: 1px solid #e7e7e7;
 }
 
+.avaliacao blockquote {
+    color: #555;
+}
+
 div2 {
     margin: -28px 15px 0 -20px;
     padding: 10px 20px 8px;
