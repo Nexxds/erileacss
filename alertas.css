@@ -44,15 +44,15 @@ div3 span {
 
 /*TEMPLATE PONTUADO*/
 #pontuado div2 {
-    background: #c468ca;
+    background: red;
 }
 
 #pontuado div3 span {
-    color: #c468ca;
+    color: red;
 }
 
 #pontuado div3 strong {
-    color: #c468ca;
+    color: red;
 }
 
 #pontuado div3 a {
