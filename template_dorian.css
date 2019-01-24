@@ -1,0 +1,90 @@
+.template_dorian {
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+    font-size: 11.5px;
+    font-family: verdana;
+    line-height: 25px;
+    border: 1px solid #bbbbbb;
+    background: #fff;
+    color: #616161;
+}
+
+colorgroup {
+    height: 251px;
+    width: 500px;
+    background: #48628814;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: -500px;
+}
+
+.consideracoes_dorian {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 10px;
+    background: #333333;
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    float: right;
+    position: relative;
+    left: 20px;
+    border-radius: 10px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.consideracoes_dorian:after {
+    border-bottom: solid 20px transparent!important;
+    border-left: solid 5px #333333;
+    border-top: solid 41px transparent!important;
+    content: '';
+    height: 0;
+    position: absolute;
+    width: 0;
+    margin: -24px 0px 0px 15px;
+}
+
+colorgroup span {
+    color: #f1f1f1;
+    font-family: Roboto Condensed;
+    text-transform: uppercase;
+    font-size: 90px;
+    position: relative;
+    top: 115px;
+    left: 0px;
+    text-shadow: 1px 0px black;
+    display: block;
+    text-align: center;
+}
+
+.info_consideracoes {
+    text-align: center;
+    box-shadow: 0 0 10px #dadada;
+    border: 2px solid #fff;
+    outline: 1px solid #e7e7e7;
+    padding: 10px;
+}
+
+.info_consideracoes li {
+    text-align: left;
+    font-size: 9px;
+    padding: 10px;
+    list-style: none;
+    border: 1px solid #e7e7e7;
+    margin: 0px 0px -26px;
+}
+
+pokemonparticipantes {
+    padding: 10px;
+    display: block;
+    border: 1px solid #e7e7e7;
+    font-size: 11px;
+}
+
+itensusados {
+    display: block;
+    padding: 10px;
+    border: 1px solid #e7e7e7;
+}
